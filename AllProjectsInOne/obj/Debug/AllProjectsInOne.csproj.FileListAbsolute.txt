@@ -1,0 +1,6 @@
+C:\Users\ravne\RiderProjects\TwoDaysNewProgrammingLangue\AllProjectsInOne\bin\Debug\AllProjectsInOne.exe
+C:\Users\ravne\RiderProjects\TwoDaysNewProgrammingLangue\AllProjectsInOne\bin\Debug\AllProjectsInOne.pdb
+C:\Users\ravne\RiderProjects\TwoDaysNewProgrammingLangue\AllProjectsInOne\obj\Debug\AllProjectsInOne.csprojAssemblyReference.cache
+C:\Users\ravne\RiderProjects\TwoDaysNewProgrammingLangue\AllProjectsInOne\obj\Debug\AllProjectsInOne.csproj.CoreCompileInputs.cache
+C:\Users\ravne\RiderProjects\TwoDaysNewProgrammingLangue\AllProjectsInOne\obj\Debug\AllProjectsInOne.exe
+C:\Users\ravne\RiderProjects\TwoDaysNewProgrammingLangue\AllProjectsInOne\obj\Debug\AllProjectsInOne.pdb
